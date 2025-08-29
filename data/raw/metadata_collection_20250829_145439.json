@@ -1,0 +1,41 @@
+{
+  "collection_info": {
+    "date": "2025-08-29T14:54:39.571012",
+    "target_month": "septembre 2025",
+    "total_sources_configured": 12
+  },
+  "collection_results": {
+    "total_events_collected": 153,
+    "events_by_category": {
+      "official": 33,
+      "cultural": 42,
+      "sports": 37,
+      "business": 20,
+      "platforms": 21
+    }
+  },
+  "sources_used": {
+    "official_sources": [
+      "Bordeaux Métropole",
+      "Ville de Bordeaux"
+    ],
+    "cultural_sources": [
+      "Opéra National de Bordeaux",
+      "Cap Sciences Bordeaux",
+      "Bassins des Lumières",
+      "Musée d'Aquitaine"
+    ],
+    "sports_sources": [
+      "Union Bordeaux-Bègles Rugby",
+      "Stade de Bordeaux - Matmut Atlantique",
+      "Bordeaux Métropole Sports"
+    ],
+    "business_sources": [
+      "Bordeaux Business Events"
+    ],
+    "platform_sources": [
+      "Université de Bordeaux",
+      "Bordeaux Métropole - Agenda Complet"
+    ]
+  }
+}
