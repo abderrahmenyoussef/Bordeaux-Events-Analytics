@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "analysis_date": "2025-08-30T15:05:42.457990",
+    "total_events_analyzed": 153,
+    "data_period": "2023-12-04 00:00:00 à 2029-08-25 00:00:00"
+  },
+  "key_metrics": {
+    "top_category": "Culturel",
+    "top_category_percentage": 27.450980392156865,
+    "most_active_city": "",
+    "average_duration_days": 273.4266666666667,
+    "september_2025_events": 56,
+    "multi_day_events_percentage": 36.60130718954248
+  },
+  "category_distribution": {
+    "Culturel": 42,
+    "Sport": 38,
+    "Économique": 20,
+    "Général": 20,
+    "Autre": 19,
+    "Visites/Découverte": 5,
+    "Expositions": 3,
+    "Ateliers/Formations": 2,
+    "Danse": 1,
+    "Gastronomie": 1,
+    "Famille/Enfants": 1,
+    "Éducation": 1
+  },
+  "attractiveness_scores": {
+    "Visites/Découverte": 162.2,
+    "Expositions": 114.15,
+    "Autre": 113.4,
+    "Général": 108.28,
+    "Économique": 108.28,
+    "Sport": 76.46,
+    "Gastronomie": 65.5,
+    "Ateliers/Formations": 1.1,
+    "Culturel": NaN,
+    "Danse": NaN,
+    "Famille/Enfants": NaN,
+    "Éducation": NaN
+  },
+  "temporal_distribution": {
+    "by_month": {
+      "2.0": 8,
+      "3.0": 4,
+      "4.0": 8,
+      "5.0": 4,
+      "6.0": 16,
+      "8.0": 17,
+      "9.0": 4,
+      "10.0": 4,
+      "11.0": 2,
+      "12.0": 8
+    },
+    "by_year": {
+      "2023.0": 8,
+      "2024.0": 16,
+      "2025.0": 43,
+      "2029.0": 8
+    }
+  },
+  "geographical_distribution": {
+    "cities": {
+      "": 108,
+      "Bordeaux": 45
+    },
+    "location_types": {
+      "": 108,
+      "commune": 28,
+      "quartier": 7,
+      "musée": 6,
+      "place": 4
+    }
+  }
+}
