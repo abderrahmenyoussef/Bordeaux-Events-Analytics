@@ -1,0 +1,66 @@
+{
+  "processing_info": {
+    "processed_at": "2025-08-30T13:16:40.598140",
+    "pipeline_version": "phase_2_processing",
+    "target_month": "2025-09"
+  },
+  "processing_results": {
+    "date_parsing": {
+      "total_events": 153,
+      "dates_parsed": 75,
+      "date_ranges_detected": 56,
+      "september_2025_events": 56
+    },
+    "location_extraction": {
+      "events_with_city": 45,
+      "events_with_specific_place": 33,
+      "location_types_detected": [
+        "commune",
+        "musée",
+        "place",
+        "quartier"
+      ]
+    },
+    "categorization": {
+      "categories_detected": 12,
+      "non_other_percentage": 87.58169934640523,
+      "category_distribution": {
+        "Culturel": 42,
+        "Sport": 38,
+        "Économique": 20,
+        "Général": 20,
+        "Autre": 19,
+        "Visites/Découverte": 5,
+        "Expositions": 3,
+        "Ateliers/Formations": 2,
+        "Danse": 1,
+        "Gastronomie": 1,
+        "Famille/Enfants": 1,
+        "Éducation": 1
+      }
+    }
+  },
+  "september_2025_analysis": {
+    "total_events": 56,
+    "categories": {
+      "Sport": 14,
+      "Économique": 14,
+      "Général": 14,
+      "Autre": 9,
+      "Visites/Découverte": 2,
+      "Expositions": 2,
+      "Gastronomie": 1
+    },
+    "locations": {
+      "Bordeaux": 8,
+      "Bègles": 4
+    },
+    "sources": {
+      "Bordeaux Métropole": 14,
+      "Bordeaux Métropole Sports": 14,
+      "Bordeaux Business Events": 14,
+      "Bordeaux Métropole - Agenda Complet": 14
+    }
+  },
+  "comparison_with_original": {}
+}
