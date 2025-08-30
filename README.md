@@ -191,18 +191,6 @@ D'après les analyses actuelles :
 
 Voir `AMELIORATIONS.md` pour la roadmap complète des améliorations envisagées.
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Ajouter de nouvelles sources de données
-- Améliorer les algorithms de parsing
-- Proposer de nouvelles visualisations
-- Signaler des bugs ou problèmes
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
 ## 👤 Auteur
 
 **Abderrahmen Youssef**
