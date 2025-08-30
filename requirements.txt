@@ -1,0 +1,38 @@
+# Bordeaux Events Analytics - Requirements
+# Web Scraping et Collecte de Données
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+urllib3>=2.0.0
+
+# Traitement et Analyse de Données
+pandas>=2.0.0
+numpy>=1.24.0
+json5>=0.9.0
+
+# Manipulation et Parsing de Dates
+dateparser>=1.1.8
+pytz>=2023.3
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Interface Jupyter et Notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Utilitaires et Outils
+tqdm>=4.66.0
+pathlib2>=2.3.7
+regex>=2023.8.8
+
+# Optionnel - Améliorations futures
+# playwright>=1.40.0  # Pour web scraping plus avancé
+# scrapy>=2.11.0      # Framework de scraping professionnel
+# scikit-learn>=1.3.0 # Machine Learning pour catégorisation
+# nltk>=3.8.1         # Natural Language Processing
+# spacy>=3.7.0        # NLP avancé pour extraction d'entités
+# streamlit>=1.28.0   # Interface web pour présentation des résultats
